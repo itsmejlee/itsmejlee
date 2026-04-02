@@ -6,6 +6,7 @@ Right now, I'm focused on transitioning into:
 - Azure Cloud
 - Cybersecurity
 - AI & Automation
+  
 I enjoy learning new technologies, building practical solutions, and continuously improving my skills to stay relevant in the IT field.
 
 

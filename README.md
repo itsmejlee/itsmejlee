@@ -9,14 +9,12 @@ Right now, I'm focused on transitioning into:
   
 I enjoy learning new technologies, building practical solutions, and continuously improving my skills to stay relevant in the IT field.
 
+**Goals**
+- Gain hands-on experience in Azure Cloud, Cybersecurity and AI/Automation
+- Build projects that solve real-world problems
+- Contribute to open-source and collaborate with others
 
 **Interests & Fun Facts**
 - I love watching anime, action movies, and J/K dramas
 - Always curious about how things work behind the scenes
 - Like exploring new skills and technologies
-
-
-**Goals**
-- Gain hands-on experience in Azure Cloud, Cybersecurity and AI/Automation
-- Build projects that solve real-world problems
-- Contribute to open-source and collaborate with others

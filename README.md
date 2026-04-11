@@ -1,6 +1,6 @@
 Hi there,
 
-I'm JLee/Lee, currently working as an IT Associate in a private company, with a growing passion for cloud technologies, cybersecurity, and AI-driven automation.
+I'm JLee, currently working as an IT Associate in a private company, with a growing passion for cloud technologies, cybersecurity, and AI-driven automation.
 
 Right now, I'm focused on transitioning into:
 - Azure Cloud
